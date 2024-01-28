@@ -1,0 +1,28 @@
+/* Write your code here. */
+/* Write your code here. */
+.bg-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  padding: 500px;
+  align-items: center;
+  justify-content: center;
+}
+.container1 {
+  background-color: #ffffff;
+  width: 80vw;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+}
+.heading {
+  color: #cb8805;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+}
